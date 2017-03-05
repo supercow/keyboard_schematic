@@ -1558,4 +1558,36 @@ Wire Wire Line
 	8950 1750 8950 5700
 Wire Wire Line
 	9800 1750 9800 5700
+Text Label 11650 3800 0    60   ~ 0
+Row0
+Text Label 2800 1300 0    60   ~ 0
+Row0
+Text Label 2800 2050 0    60   ~ 0
+Row1
+Text Label 2800 2800 0    60   ~ 0
+Row2
+Text Label 2800 3550 0    60   ~ 0
+Row3
+Text Label 2800 4300 0    60   ~ 0
+Row4
+Text Label 2800 5050 0    60   ~ 0
+Row5
+Text Label 3000 5700 3    60   ~ 0
+Column0
+Text Label 3850 5700 3    60   ~ 0
+Column1
+Text Label 4700 5700 3    60   ~ 0
+Column2
+Text Label 5550 5700 3    60   ~ 0
+Column3
+Text Label 6400 5700 3    60   ~ 0
+Column4
+Text Label 7250 5700 3    60   ~ 0
+Column5
+Text Label 8100 5700 3    60   ~ 0
+Column6
+Text Label 8950 5700 3    60   ~ 0
+Column7
+Text Label 9800 5700 3    60   ~ 0
+Column8
 $EndSCHEMATC
