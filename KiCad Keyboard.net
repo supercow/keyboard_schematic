@@ -1,0 +1,41 @@
+(export (version D)
+  (design
+    (source "C:\\Users\\supercow\\Documents\\Custom Keyboard\\KiCad Keyboard\\KiCad Keyboard.sch")
+    (date "3/5/2017 12:48:49")
+    (tool "Eeschema 4.0.5")
+    (sheet (number 1) (name /) (tstamps /)
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source "KiCad Keyboard.sch")
+        (comment (number 1) (value ""))
+        (comment (number 2) (value ""))
+        (comment (number 3) (value ""))
+        (comment (number 4) (value "")))))
+  (components
+    (comp (ref SW1)
+      (value SWITCH_PUSH)
+      (libsource (lib ergodox) (part SWITCH_PUSH))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 58C25697)))
+  (libparts
+    (libpart (lib ergodox) (part SWITCH_PUSH)
+      (fields
+        (field (name Reference) SW)
+        (field (name Value) SWITCH_PUSH))
+      (pins
+        (pin (num 0) (name GND) (type power_in))
+        (pin (num 1) (name 1) (type passive))
+        (pin (num 2) (name 2) (type passive)))))
+  (libraries
+    (library (logical ergodox)
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\ergodox.lib")))
+  (nets
+    (net (code 1) (name "Net-(SW1-Pad1)")
+      (node (ref SW1) (pin 1)))
+    (net (code 2) (name "Net-(SW1-Pad2)")
+      (node (ref SW1) (pin 2)))
+    (net (code 3) (name GND)
+      (node (ref SW1) (pin 0)))))
