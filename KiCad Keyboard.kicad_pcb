@@ -3,7 +3,7 @@
   (general
     (links 138)
     (no_connects 138)
-    (area 0 0 0 0)
+    (area 10.645799 16.119499 200.334221 145.564201)
     (thickness 1.6)
     (drawings 0)
     (tracks 0)
@@ -62,7 +62,7 @@
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFF77F)
+    (visible_elements FFFFFF7F)
     (pcbplotparams
       (layerselection 0x00030_80000001)
       (usegerberextensions false)
@@ -256,7 +256,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8823)
-    (at 259.569 84.85)
+    (at 88.9 59.69)
     (path /58C2B3C4)
     (fp_text reference D_1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -271,7 +271,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8829)
-    (at 214.469 158.88)
+    (at 107.95 59.69)
     (path /58C2B3D6)
     (fp_text reference D_2 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -286,7 +286,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC882F)
-    (at 258.269 113.13)
+    (at 127 59.69)
     (path /58C2B3E8)
     (fp_text reference D_3 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -301,7 +301,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8835)
-    (at 224.259 146.61)
+    (at 146.05 59.69)
     (path /58C2B3FA)
     (fp_text reference D_4 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -316,7 +316,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC883B)
-    (at 248.609 120.2)
+    (at 165.1 59.69)
     (path /58C2B40C)
     (fp_text reference D_5 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -331,7 +331,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8841)
-    (at 224.259 139.54)
+    (at 184.15 59.69)
     (path /58C2B41E)
     (fp_text reference D_6 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -346,7 +346,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8847)
-    (at 238.819 127.27)
+    (at 104.14 97.79)
     (path /58C3A634)
     (fp_text reference D_A1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -361,7 +361,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC884D)
-    (at 214.469 151.81)
+    (at 190.5 116.84)
     (path /58C3A71E)
     (fp_text reference D_B1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -376,7 +376,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8853)
-    (at 238.689 113.13)
+    (at 152.4 116.84)
     (path /58C3A6FA)
     (fp_text reference D_C1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -391,7 +391,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8859)
-    (at 258.269 106.06)
+    (at 142.24 97.79)
     (path /58C3A658)
     (fp_text reference D_D1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -406,7 +406,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC885F)
-    (at 204.679 158.88)
+    (at 137.16 78.74)
     (path /58C2C0D8)
     (fp_text reference D_E1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -421,7 +421,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8865)
-    (at 219.239 132.47)
+    (at 69.85 31.75)
     (path /58C26684)
     (fp_text reference D_Esc_0 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -436,7 +436,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC886B)
-    (at 248.479 113.13)
+    (at 77.47 97.79)
     (path /58C3A622)
     (fp_text reference D_Esc_1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -451,7 +451,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8871)
-    (at 229.029 132.47)
+    (at 88.9 31.75)
     (path /58C26696)
     (fp_text reference D_F1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -466,7 +466,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8877)
-    (at 214.469 144.74)
+    (at 107.95 31.75)
     (path /58C27710)
     (fp_text reference D_F2 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -481,7 +481,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC887D)
-    (at 204.679 151.81)
+    (at 127 31.75)
     (path /58C27722)
     (fp_text reference D_F3 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -496,7 +496,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8883)
-    (at 194.889 158.88)
+    (at 146.05 31.75)
     (path /58C27734)
     (fp_text reference D_F4 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -511,7 +511,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8889)
-    (at 248.479 106.06)
+    (at 165.1 31.75)
     (path /58C27746)
     (fp_text reference D_F5 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -526,7 +526,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC888F)
-    (at 229.029 125.4)
+    (at 184.15 31.75)
     (path /58C2829E)
     (fp_text reference D_F6 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -541,7 +541,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8895)
-    (at 257.139 98.99)
+    (at 161.29 97.79)
     (path /58C3A66A)
     (fp_text reference D_F7 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -556,7 +556,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC889B)
-    (at 248.609 127.27)
+    (at 180.34 97.79)
     (path /58C3A67C)
     (fp_text reference D_G1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -571,7 +571,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88A1)
-    (at 219.525143 104.19)
+    (at 69.85 59.69)
     (path /58C2B3B2)
     (fp_text reference D_Grave1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -586,7 +586,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88A7)
-    (at 257.139 91.92)
+    (at 120.65 135.89)
     (path /58C3A78A)
     (fp_text reference D_LAlt1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -601,7 +601,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88AD)
-    (at 219.053429 111.26)
+    (at 72.39 135.89)
     (path /58C3A766)
     (fp_text reference D_LCtrl1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -616,7 +616,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88B3)
-    (at 200.294 123.53)
+    (at 82.55 116.84)
     (path /58C3A6C4)
     (fp_text reference D_LShift1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -631,7 +631,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88B9)
-    (at 60.906 156.35)
+    (at 173.99 137.16)
     (path /58C3A7C0)
     (fp_text reference D_LSpace1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -646,7 +646,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88BF)
-    (at 238.774572 84.85)
+    (at 96.52 135.89)
     (path /58C3A778)
     (fp_text reference D_LSuper1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -661,7 +661,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88C5)
-    (at 219.239 125.4)
+    (at 39.37 137.16)
     (path /58C3A754)
     (fp_text reference D_M0 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -676,7 +676,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88CB)
-    (at 204.679 144.74)
+    (at 20.32 60.96)
     (path /58C2B38E)
     (fp_text reference D_M1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -691,7 +691,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88D1)
-    (at 238.689 106.06)
+    (at 39.37 60.96)
     (path /58C2B3A0)
     (fp_text reference D_M2 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -706,7 +706,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88D7)
-    (at 228.789 118.33)
+    (at 20.32 80.01)
     (path /58C2C07E)
     (fp_text reference D_M3 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -721,7 +721,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88DD)
-    (at 194.889 151.81)
+    (at 39.37 80.01)
     (path /58C2C090)
     (fp_text reference D_M4 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -736,7 +736,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88E3)
-    (at 209.449 137.67)
+    (at 20.32 99.06)
     (path /58C3A5FE)
     (fp_text reference D_M5 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -751,7 +751,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88E9)
-    (at 199.659 130.6)
+    (at 39.37 99.06)
     (path /58C3A610)
     (fp_text reference D_M6 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -766,7 +766,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88EF)
-    (at 238.819 134.34)
+    (at 20.32 118.11)
     (path /58C3A6A0)
     (fp_text reference D_M7 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -781,7 +781,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88F5)
-    (at 247.349 98.99)
+    (at 39.37 118.11)
     (path /58C3A6B2)
     (fp_text reference D_M8 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -796,7 +796,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC88FB)
-    (at 209.449 130.6)
+    (at 20.32 137.16)
     (path /58C3A742)
     (fp_text reference D_M9 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -811,7 +811,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8901)
-    (at 247.349 91.92)
+    (at 99.06 78.74)
     (path /58C2C0B4)
     (fp_text reference D_Q1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -826,7 +826,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8907)
-    (at 228.899 111.26)
+    (at 156.21 78.74)
     (path /58C2C0EA)
     (fp_text reference D_R1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -841,7 +841,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC890D)
-    (at 249.779 84.85)
+    (at 123.19 97.79)
     (path /58C3A646)
     (fp_text reference D_S1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -856,7 +856,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8913)
-    (at 218.999 118.33)
+    (at 175.26 78.74)
     (path /58C2C0FC)
     (fp_text reference D_T1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -871,7 +871,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8919)
-    (at 199.659 137.67)
+    (at 74.93 78.74)
     (path /58C2C0A2)
     (fp_text reference D_Tab1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -886,7 +886,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC891F)
-    (at 237.559 98.99)
+    (at 171.45 115.57)
     (path /58C3A70C)
     (fp_text reference D_V1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -901,7 +901,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8925)
-    (at 237.559 91.92)
+    (at 118.11 78.74)
     (path /58C2C0C6)
     (fp_text reference D_W1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -916,7 +916,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC892B)
-    (at 238.819 120.2)
+    (at 133.35 116.84)
     (path /58C3A6E8)
     (fp_text reference D_X1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -931,7 +931,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_MX_DIODE (layer F.Cu) (tedit 4EC3E830) (tstamp 58BC8931)
-    (at 194.889 144.74)
+    (at 114.3 116.84)
     (path /58C3A6D6)
     (fp_text reference D_Z1 (at 0 5.08) (layer F.SilkS)
       (effects (font (thickness 0.254)))
@@ -946,7 +946,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC894B)
-    (at 107.734201 134.314201)
+    (at 88.9 58.42)
     (path /58C2B3BE)
     (fp_text reference SW_1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -983,7 +983,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8965)
-    (at 185.094201 132.754201)
+    (at 107.95 58.42)
     (path /58C2B3D0)
     (fp_text reference SW_2 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1020,7 +1020,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC897F)
-    (at 222.994201 94.074201)
+    (at 127 58.42)
     (path /58C2B3E2)
     (fp_text reference SW_3 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1057,7 +1057,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8999)
-    (at 160.984201 152.094201)
+    (at 146.05 58.42)
     (path /58C2B3F4)
     (fp_text reference SW_4 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1094,7 +1094,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC89B3)
-    (at 233.014201 74.734201)
+    (at 165.1 58.42)
     (path /58C2B406)
     (fp_text reference SW_5 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1131,7 +1131,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC89CD)
-    (at 252.064201 55.394201)
+    (at 184.15 58.42)
     (path /58C2B418)
     (fp_text reference SW_6 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1168,7 +1168,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC89E7)
-    (at 185.094201 113.414201)
+    (at 104.14 96.52)
     (path /58C3A62E)
     (fp_text reference SW_A1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1205,7 +1205,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8A01)
-    (at 165.754201 132.754201)
+    (at 190.5 115.57)
     (path /58C3A718)
     (fp_text reference SW_B1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1242,7 +1242,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8A1B)
-    (at 203.654201 94.074201)
+    (at 152.4 115.57)
     (path /58C3A6F4)
     (fp_text reference SW_C1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1279,7 +1279,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8A35)
-    (at 141.644201 152.874201)
+    (at 142.24 96.52)
     (path /58C3A652)
     (fp_text reference SW_D1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1316,7 +1316,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8A4F)
-    (at 213.674201 74.734201)
+    (at 137.16 77.47)
     (path /58C2C0D2)
     (fp_text reference SW_E1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1353,7 +1353,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8A69)
-    (at 232.724201 55.394201)
+    (at 69.85 30.48)
     (path /58C2667E)
     (fp_text reference SW_Esc_0 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1390,7 +1390,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PCB_175H (layer F.Cu) (tedit 4FDE2C78) (tstamp 58BC8A87)
-    (at 124.109221 55.394201)
+    (at 77.47 96.52)
     (path /58C3A61C)
     (fp_text reference SW_Esc_1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1431,7 +1431,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8AA1)
-    (at 184.314201 94.074201)
+    (at 88.9 30.48)
     (path /58C26690)
     (fp_text reference SW_F1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1468,7 +1468,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8ABB)
-    (at 146.414201 132.754201)
+    (at 107.95 30.48)
     (path /58C2770A)
     (fp_text reference SW_F2 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1505,7 +1505,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8AD5)
-    (at 122.304201 153.654201)
+    (at 127 30.48)
     (path /58C2771C)
     (fp_text reference SW_F3 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1542,7 +1542,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8AEF)
-    (at 127.074201 114.194201)
+    (at 146.05 30.48)
     (path /58C2772E)
     (fp_text reference SW_F4 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1579,7 +1579,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8B09)
-    (at 213.384201 55.394201)
+    (at 165.1 30.48)
     (path /58C27740)
     (fp_text reference SW_F5 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1616,7 +1616,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8B23)
-    (at 165.754201 113.414201)
+    (at 184.15 30.48)
     (path /58C28298)
     (fp_text reference SW_F6 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1653,7 +1653,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8B3D)
-    (at 252.354201 74.734201)
+    (at 161.29 96.52)
     (path /58C3A664)
     (fp_text reference SW_F7 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1690,7 +1690,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8B57)
-    (at 88.394201 114.974201)
+    (at 180.34 96.52)
     (path /58C3A676)
     (fp_text reference SW_G1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1727,7 +1727,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8B71)
-    (at 164.974201 94.074201)
+    (at 69.85 58.42)
     (path /58C2B3AC)
     (fp_text reference SW_Grave1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1764,7 +1764,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PCB_125H (layer F.Cu) (tedit 549A051E) (tstamp 58BC8B8F)
-    (at 152.976721 55.394201)
+    (at 120.65 134.62)
     (path /58C3A784)
     (fp_text reference SW_LAlt1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1805,7 +1805,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PCB_125H (layer F.Cu) (tedit 549A051E) (tstamp 58BC8BAD)
-    (at 85.226721 95.634201)
+    (at 72.39 134.62)
     (path /58C3A760)
     (fp_text reference SW_LCtrl1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1846,7 +1846,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PCB_225H (layer F.Cu) (tedit 4FDE2A97) (tstamp 58BC8BF7)
-    (at 76.191721 75.514201)
+    (at 82.55 115.57)
     (path /58C3A6BE)
     (fp_text reference SW_LShift1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1931,7 +1931,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PCB_275H (layer F.Cu) (tedit 4FDE2AAF) (tstamp 58BC8C41)
-    (at 80.954221 55.394201)
+    (at 173.99 134.62)
     (path /58C3A7BA)
     (fp_text reference SW_LSpace1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2016,7 +2016,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PCB_125H (layer F.Cu) (tedit 549A051E) (tstamp 58BC8C5F)
-    (at 66.666721 126.894201)
+    (at 96.52 134.62)
     (path /58C3A772)
     (fp_text reference SW_LSuper1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2057,7 +2057,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8C79)
-    (at 127.074201 133.534201)
+    (at 39.37 135.89)
     (path /58C3A74E)
     (fp_text reference SW_M0 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2094,7 +2094,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8C93)
-    (at 146.414201 113.414201)
+    (at 20.32 59.69)
     (path /58C2B388)
     (fp_text reference SW_M1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2131,7 +2131,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8CAD)
-    (at 102.964201 153.654201)
+    (at 39.37 59.69)
     (path /58C2B39A)
     (fp_text reference SW_M2 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2168,7 +2168,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8CC7)
-    (at 174.994201 74.734201)
+    (at 20.32 78.74)
     (path /58C2C078)
     (fp_text reference SW_M3 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2205,7 +2205,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8CE1)
-    (at 194.044201 55.394201)
+    (at 39.37 78.74)
     (path /58C2C08A)
     (fp_text reference SW_M4 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2242,7 +2242,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8CFB)
-    (at 83.624201 153.654201)
+    (at 20.32 97.79)
     (path /58C3A5F8)
     (fp_text reference SW_M5 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2279,7 +2279,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8D15)
-    (at 106.954201 95.634201)
+    (at 39.37 97.79)
     (path /58C3A60A)
     (fp_text reference SW_M6 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2316,7 +2316,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8D2F)
-    (at 145.634201 94.074201)
+    (at 20.32 116.84)
     (path /58C3A69A)
     (fp_text reference SW_M7 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2353,7 +2353,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8D49)
-    (at 204.434201 113.414201)
+    (at 39.37 116.84)
     (path /58C3A6AC)
     (fp_text reference SW_M8 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2390,7 +2390,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8D63)
-    (at 155.654201 74.734201)
+    (at 20.32 135.89)
     (path /58C3A73C)
     (fp_text reference SW_M9 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2427,7 +2427,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8D7D)
-    (at 174.704201 55.394201)
+    (at 99.06 77.47)
     (path /58C2C0AE)
     (fp_text reference SW_Q1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2464,7 +2464,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8D97)
-    (at 126.294201 94.854201)
+    (at 156.21 77.47)
     (path /58C2C0E4)
     (fp_text reference SW_R1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2501,7 +2501,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8DB1)
-    (at 88.394201 134.314201)
+    (at 123.19 96.52)
     (path /58C3A640)
     (fp_text reference SW_S1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2538,7 +2538,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8DCB)
-    (at 107.734201 114.974201)
+    (at 175.26 77.47)
     (path /58C2C0F6)
     (fp_text reference SW_T1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2575,7 +2575,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PCB_150H (layer F.Cu) (tedit 4FDE2C8B) (tstamp 58BC8DE9)
-    (at 112.206701 75.514201)
+    (at 74.93 77.47)
     (path /58C2C09C)
     (fp_text reference SW_Tab1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2616,7 +2616,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8E03)
-    (at 64.284201 146.234201)
+    (at 171.45 115.57)
     (path /58C3A706)
     (fp_text reference SW_V1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2653,7 +2653,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8E1D)
-    (at 136.314201 74.734201)
+    (at 118.11 77.47)
     (path /58C2C0C0)
     (fp_text reference SW_W1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2690,7 +2690,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8E37)
-    (at 180.324201 152.094201)
+    (at 133.35 115.57)
     (path /58C3A6E2)
     (fp_text reference SW_X1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2727,7 +2727,7 @@
   )
 
   (module Stormboard_Keyboard:CHERRY_PLATE_100H (layer F.Cu) (tedit 549A12A1) (tstamp 58BC8E51)
-    (at 194.334201 74.734201)
+    (at 114.3 115.57)
     (path /58C3A6D0)
     (fp_text reference SW_Z1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2764,7 +2764,7 @@
   )
 
   (module Stormboard_Keyboard:TEENSY_2.0 (layer F.Cu) (tedit 549AEE1E) (tstamp 58BC8E7A)
-    (at 63.890501 101.590501 90)
+    (at 24.13 27.94 90)
     (path /58CB95F3)
     (fp_text reference U1 (at 0 1.625 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
