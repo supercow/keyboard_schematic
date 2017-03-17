@@ -1,4 +1,4 @@
-update=3/5/2017 12:03:55
+update=Thursday, March 09, 2017 'PMt' 08:47:03 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=ergodox
 LibName31=BathroomEpiphanies
+LibName32=/Users/james/Downloads/ws2812
